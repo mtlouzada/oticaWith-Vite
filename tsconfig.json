@@ -5,6 +5,8 @@
     "module": "ESNext",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
+    "outDir": "./build",
+    "rootDir": "./src",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
