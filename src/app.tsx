@@ -6,7 +6,7 @@ const App: React.FC = () => {
     <>
       <main>
           
-        <p className='text-black size-5'>teste</p>
+        <p className='text-black size-5'>Hello, world!!!</p>
          
       </main>
     </>
